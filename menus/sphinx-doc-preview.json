@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle sphinx-doc-preview",
+        "command": "sphinx-doc-preview:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sphinx-doc-preview",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sphinx-doc-preview:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "sphinx-doc-preview",
+  "main": "./lib/sphinx-doc-preview",
+  "version": "0.1.0",
+  "description": "Preview Sphinx generated documentation",
+  "keywords": [
+    "sphinx",
+    "documentation"
+  ],
+  "activationCommands": {
+    "atom-workspace": "sphinx-doc-preview:toggle"
+  },
+  "repository": "https://github.com/atom/sphinx-doc-preview",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
