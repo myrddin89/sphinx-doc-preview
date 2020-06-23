@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "sphinx-doc-preview:toggle"
   },
-  "repository": "https://github.com/atom/sphinx-doc-preview",
+  "repository": "git://github.com/atom/sphinx-doc-preview",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
