@@ -1,8 +1,14 @@
+/bower_components/
+/node_modules/
+/.pulp-cache/
+/output/
+/generated-docs/
+/.psc-package/
+/.psc*
+/.purs*
+/.psa*
 .DS_Store
 npm-debug.log
-node_modules
 .psc-ide-port
 .purs-repl
 .spago
-.pulp-cache
-output/
